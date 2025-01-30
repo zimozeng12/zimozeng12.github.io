@@ -1,0 +1,35 @@
+---
+title: "Zimo Zeng | Data Analytics"
+author: "Zimo Zeng"
+date: "2025-01-28"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Welcome to My Website  
+
+This is a Quarto website created by [Zimo Zeng](https://github.com/zimozeng12/zimozeng12).  
+
+---
+
+## About This Site  
+
+This site showcases my work in **data analytics**, **business strategy**, and **technology innovation**. I use this space to share insights, projects, and useful resources.
+
+---
+
+## Learn More  
+
+- 📖 Learn more about Quarto websites in the [official Quarto documentation](https://quarto.org/docs/websites).  
+- 🛠 Explore the source code of this website on [GitHub](https://github.com/zimozeng12/zimozeng12.github.io).  
+
+---
+
+## Contact  
+
+📧 **Email:** [zimozeng@bu.edu](mailto:zimozeng@bu.edu)  
+🐙 **GitHub:** [zimozeng12](https://github.com/zimozeng12)  
+
+---

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zimo Zeng | Data Analytics",
+    "section": "",
+    "text": "This is a Quarto website created by Zimo Zeng.\n\n\n\nThis site showcases my work in data analytics, business strategy, and technology innovation. I use this space to share insights, projects, and useful resources.\n\n\n\n\n\n📖 Learn more about Quarto websites in the official Quarto documentation.\n\n🛠 Explore the source code of this website on GitHub.\n\n\n\n\n\n📧 Email: zimozeng@bu.edu\n🐙 GitHub: zimozeng12"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Zimo Zeng | Data Analytics",
+    "section": "",
+    "text": "This site showcases my work in data analytics, business strategy, and technology innovation. I use this space to share insights, projects, and useful resources."
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "Zimo Zeng | Data Analytics",
+    "section": "",
+    "text": "📖 Learn more about Quarto websites in the official Quarto documentation.\n\n🛠 Explore the source code of this website on GitHub."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Zimo Zeng | Data Analytics",
+    "section": "",
+    "text": "📧 Email: zimozeng@bu.edu\n🐙 GitHub: zimozeng12"
+  }
+]
